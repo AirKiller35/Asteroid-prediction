@@ -6,7 +6,7 @@ It applies machine learning techniques to classify asteroids as hazardous or non
 ## Project Overview
 
 Asteroids are constantly monitored by NASA for their proximity, velocity, and size to assess potential danger to Earth.
-In this project, a Logistic Regression model was trained to predict asteroid risk using key features such as:
+In this project, a **Random Forrest classifier based model** was trained to predict asteroid risk using key features such as:
 
 - Absolute magnitude (H)
 
